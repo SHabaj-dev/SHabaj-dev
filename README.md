@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHabaj-dev
-- 👀 I’m interested in Java Programming
+- 👀 Like To code in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Other Java Projects to Learn SomeThing New
 - 📫 How to reach me just bounce an Email on shabajansari843@gmail.com
