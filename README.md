@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Other Java Projects to Learn SomeThing New
 - 📫 How to reach me just bounce an Email on shabajansari843@gmail.com
-https://www.linkedin.com/in/shabaj-ansari-696426202/
+![linkedIN](https://www.linkedin.com/in/shabaj-ansari-696426202/)
 
 ![Shabaj Ansari's github stats](https://github-readme-stats.vercel.app/api?username=SHabaj-dev)
 <!---
