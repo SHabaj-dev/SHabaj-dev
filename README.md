@@ -27,9 +27,9 @@
   
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=DSA)](https://github.com/SHabaj-dev/DSA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Java-Advance)](https://github.com/SHabaj-dev/Java-Advance)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Android)](https://github.com/SHabaj-dev/Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=DSA&theme=dark)](https://github.com/SHabaj-dev/DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Java-Advance&theme=dark)](https://github.com/SHabaj-dev/Java-Advance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Android&theme=dark)](https://github.com/SHabaj-dev/Android)
 
 
 
