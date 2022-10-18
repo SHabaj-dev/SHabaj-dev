@@ -28,6 +28,8 @@
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=DSA)](https://github.com/SHabaj-dev/DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Java Advance Learning)](https://github.com/SHabaj-dev/Java-Advance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Android)](https://github.com/SHabaj-dev/Android)
 
 
 
