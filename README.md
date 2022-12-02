@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @SHabaj-dev
 - :books: Persuing MCA from Galgotias University
-- 👀 Like To code in Java
+- 👀 Curently Learning Android Development Using Kotlin
 - 🌱 Learnig Daily Something New
 - 💞️ I’m looking to collaborate on Other Java Projects to Learn SomeThing New
 - 📫 Email: shabajansari843@gmail.com
