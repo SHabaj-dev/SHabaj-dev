@@ -5,7 +5,8 @@
 - 🌱 Learnig Daily Something New
 - 📫 Email: shabajansari843@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHabaj-dev&show_icons=true&theme=dark)
+# Stats
+![Shabaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHabaj-dev&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHabaj-dev&show_icon=true&theme=dark)](https://github.com/SHabaj-dev/github-readme-stats)
 
 
@@ -18,6 +19,7 @@
   
 </p>
 
+ # Most Popular
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Advance-Java&theme=dark)](https://github.com/SHabaj-dev/Advance-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Android&theme=dark)](https://github.com/SHabaj-dev/Android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHabaj-dev&repo=Android_Kotlin&theme=dark)](https://github.com/SHabaj-dev/Android_Kotlin)
